@@ -1,4 +1,4 @@
-import React, { useLayoutEffect, useRef, useState } from "react";
+import React, { useLayoutEffect, useRef, useState } from 'react';
 import {
   ScrollView,
   Text,
@@ -6,18 +6,18 @@ import {
   Image,
   Dimensions,
   TouchableHighlight,
-} from "react-native";
-import styles from "./styles";
-import Carousel, { Pagination } from "react-native-snap-carousel";
+} from 'react-native';
+import styles from './styles';
+import Carousel, { Pagination } from 'react-native-snap-carousel';
 import {
   getIngredientName,
   getCategoryName,
   getCategoryById,
-} from "../../data/MockDataAPI";
-import BackButton from "../../components/BackButton/BackButton";
-import ViewIngredientsButton from "../../components/ViewIngredientsButton/ViewIngredientsButton";
+} from '../../data/MockDataAPI';
+import BackButton from '../../components/BackButton/BackButton';
+// import ViewIngredientsButton from '../../components/ViewIngredientsButton/ViewIngredientsButton';
 
-const { width: viewportWidth } = Dimensions.get("window");
+const { width: viewportWidth } = Dimensions.get('window');
 
 export default function RecipeScreen(props) {
   const { navigation, route } = props;
@@ -32,7 +32,7 @@ export default function RecipeScreen(props) {
 
   useLayoutEffect(() => {
     navigation.setOptions({
-      headerTransparent: "true",
+      headerTransparent: 'true',
       headerLeft: () => (
         <BackButton
           onPress={() => {
@@ -55,7 +55,7 @@ export default function RecipeScreen(props) {
   const onPressIngredient = (item) => {
     var name = getIngredientName(item);
     let ingredient = item;
-    navigation.navigate("Ingredient", { ingredient, name });
+    navigation.navigate('Ingredient', { ingredient, name });
   };
 
   return (
@@ -95,9 +95,7 @@ export default function RecipeScreen(props) {
         <Text style={styles.infoRecipeName}>{item.title}</Text>
         <View style={styles.infoContainer}>
           <TouchableHighlight
-            onPress={() =>
-              navigation.navigate("RecipesList", { category, title })
-            }
+            onPress={() => navigation.navigate('RecipesList', { title })}
           >
             <Text style={styles.category}>
               {getCategoryName(item.categoryId).toUpperCase()}
@@ -106,21 +104,17 @@ export default function RecipeScreen(props) {
         </View>
 
         <View style={styles.infoContainer}>
-          <Image
-            style={styles.infoPhoto}
-            source={require("../../../assets/icons/time.png")}
-          />
-          <Text style={styles.infoRecipe}>{item.time} minutes </Text>
+          {/* <Text style={styles.infoRecipe}>{item.time} How to Be Saved </Text> */}
         </View>
 
         <View style={styles.infoContainer}>
-          <ViewIngredientsButton
+          {/* <ViewIngredientsButton
             onPress={() => {
               let ingredients = item.ingredients;
-              let title = "Ingredients for " + item.title;
-              navigation.navigate("IngredientsDetails", { ingredients, title });
+              let title = 'Ingredients for ' + item.title;
+              navigation.navigate('IngredientsDetails', { ingredients, title });
             }}
-          />
+          /> */}
         </View>
         <View style={styles.infoContainer}>
           <Text style={styles.infoDescriptionRecipe}>{item.description}</Text>
