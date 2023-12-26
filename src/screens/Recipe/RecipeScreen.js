@@ -94,13 +94,13 @@ export default function RecipeScreen(props) {
       <View style={styles.infoRecipeContainer}>
         <Text style={styles.infoRecipeName}>{item.title}</Text>
         <View style={styles.infoContainer}>
-          <TouchableHighlight
+          {/* <TouchableHighlight
             onPress={() => navigation.navigate('RecipesList', { title })}
           >
             <Text style={styles.category}>
               {getCategoryName(item.categoryId).toUpperCase()}
             </Text>
-          </TouchableHighlight>
+          </TouchableHighlight> This is where Category was mentioned in each page*/}
         </View>
 
         <View style={styles.infoContainer}>

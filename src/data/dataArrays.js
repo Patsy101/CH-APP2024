@@ -79,14 +79,14 @@ If you have sincerely made a decision to receive Christ as your Saviour, please 
   {
     recipeId: 3,
     categoryId: 4,
-    title: 'Triple Berry Smoothie',
+    title: 'Young People',
     photo_url:
-      'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-how-to-make-a-smoothie-horizontal-1542310071.png?crop=0.803xw:0.923xh;0.116xw,0.00510xh&resize=768:*',
+      'https://www.gospellightbbc.org.nz/wp-content/uploads/2021/03/youth-night1-2021.jpg',
     photosArray: [
-      'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-how-to-make-a-smoothie-horizontal-1542310071.png?crop=0.803xw:0.923xh;0.116xw,0.00510xh&resize=768:*',
-      'https://www.vitamix.com/media/other/images/xVitamix-Triple-Berry-Smoothie-square-crop__1.jpg.pagespeed.ic.OgTC3ILD3R.jpg',
-      'http://images.media-allrecipes.com/userphotos/960x960/3798204.jpg',
-      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrzui8MM6W66I29VZwVvcjpGv99JW3O1owgupc3KwB65rhAyrZ',
+      'https://www.gospellightbbc.org.nz/wp-content/uploads/2021/03/youth-night1-2021.jpg',
+      'https://www.gospellightbbc.org.nz/wp-content/uploads/2021/03/youth-night1-2021.jpg',
+      'https://www.gospellightbbc.org.nz/wp-content/uploads/2021/03/youth-night1-2021.jpg',
+      'https://www.gospellightbbc.org.nz/wp-content/uploads/2021/03/youth-night1-2021.jpg',
     ],
     time: '10',
     ingredients: [
@@ -94,48 +94,76 @@ If you have sincerely made a decision to receive Christ as your Saviour, please 
       [60, '1/2 lbs'],
       [61, '1/2 liters'],
     ],
-    description:
-      'In a blender, combine all ingredients and blend until smooth. Then divide between 2 cups and top with blackberries, if desired.',
+    description: `We host a youth night fornightly on a Friday or Saturday evening for a few hours in conjunction with several other local churches of like faith & practice. Our youth are encouraged to enjoy themselves playing games & sports, meeting new friends, and spending time together around the word of God.
+
+    1 Timothy 4:12
+    Let no man despise thy youth; but be thou an example of the believers, in word, in conversation, in charity, in spirit, in faith, in purity.
+    
+    Titus 2:6-8
+    Young men likewise exhort to be sober minded. In all things shewing thyself a pattern of good works: in doctrine shewing uncorruptness, gravity, sincerity, Sound speech, that cannot be condemned; that he that is of the contrary part may be ashamed, having no evil thing to say of you.
+    
+    
+    for any information and queries please get in touch with Pastor Jason Flores on 021 125 3446`,
   },
   {
     recipeId: 2,
     categoryId: 3,
-    title: 'Vegan Cookies',
+    title: 'Service Times',
     photo_url:
-      'https://www.texanerin.com/content/uploads/2018/06/no-bake-lactation-cookies-1-650x975.jpg',
+      'https://www.gospellightbbc.org.nz/wp-content/uploads/2015/11/GLBBC-Final-version-website-copy-e1446511587290.png',
     photosArray: [
-      'https://www.texanerin.com/content/uploads/2018/06/no-bake-lactation-cookies-1-650x975.jpg',
-      'https://ichef.bbci.co.uk/news/660/cpsprodpb/B2C0/production/_106106754_vegnuggets976.jpg',
-      'https://pixel.nymag.com/imgs/daily/grub/2017/11/22/22-mcds-chicken-tenders.w330.h330.jpg',
-      'https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcdn-img.health.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Flarge_16_9%2Fpublic%2Fstyles%2Fmain%2Fpublic%2Fgettyimages-508510211.jpg%3Fitok%3Dh-Uryi8r&w=400&c=sc&poi=face&q=85',
+      'https://www.gospellightbbc.org.nz/wp-content/uploads/2015/11/GLBBC-Final-version-website-copy-e1446511587290.png',
+      'https://www.gospellightbbc.org.nz/wp-content/uploads/2015/11/GLBBC-Final-version-website-copy-e1446511587290.png',
+      'https://www.gospellightbbc.org.nz/wp-content/uploads/2015/11/GLBBC-Final-version-website-copy-e1446511587290.png',
+      'https://www.gospellightbbc.org.nz/wp-content/uploads/2015/11/GLBBC-Final-version-website-copy-e1446511587290.png',
     ],
     time: '30',
-    ingredients: [
-      [0, '2 quarts'],
-      [16, '1'],
-      [12, '1 cup'],
-      [18, '1 cup'],
-      [19, '1 teaspoon'],
-      [1, '2 teaspoons'],
-      [4, '1/4 teaspoons'],
-      [7, '1/8 teaspoons'],
-      [20, '1/2 teaspoons'],
-      [21, '4'],
-    ],
-    description:
-      '-- Beat the egg and then combine it with water in a bowl. Stir. Combine the flour, salt, MSG, pepper, onion powder and garlic powder in a gallon size zip lock bag. Pound each of the breast filets until about 1/4-inch thick. Then cut into bite sized pieces. Coat each piece with the flour mixture by shaking in the zip lock bag. Remove and coat in the egg mixture. Then coat in the flour mixture again. Shake to coat. Deep fry at 375 degrees for 10-12 minutes, until browned and crispy.',
+    // ingredients: [
+    //   [0, '2 quarts'],
+    //   [16, '1'],
+    //   [12, '1 cup'],
+    //   [18, '1 cup'],
+    //   [19, '1 teaspoon'],
+    //   [1, '2 teaspoons'],
+    //   [4, '1/4 teaspoons'],
+    //   [7, '1/8 teaspoons'],
+    //   [20, '1/2 teaspoons'],
+    //   [21, '4'],
+    // ],
+    description: ` Service Times
+
+    9.30am-10.15am    Sunday School 
+    
+    10.30am-12.00pm   Sunday Morning Service 
+    
+    1.30pm-4.00pm     Sunday Afternoon Service 
+    
+    7:00pm-9.00pm     Wednesday Prayer Meeting & Bible Study
+     
+    Meeting Address:
+    Ellerslie War Memorial Hall, 138 Main Highway, Ellerslie, Auckland, New Zealand 
+    
+    Please note that Ellerslie War Memorial Hall is our main meeting place but sometimes we meet at a different location, so view our GLBBC Meeting Calendar for 2023-2024 for details.
+    
+    Contact Information:
+
+    Pastor Jason Flores
+
+    Phone:  021 125 3446
+
+    Email:  pastor@gospellightbbc.org.nz `,
   },
   {
     recipeId: 3,
     categoryId: 3,
-    title: 'Pumpkin Spice Cookies',
+    title: 'Prayer Meeting',
     photo_url:
-      'https://www.texanerin.com/content/uploads/2018/11/pumpkin-spice-cookies-4-650x975.jpg',
+      'https://www.gospellightbbc.org.nz/wp-content/uploads/2021/03/prayer.jpg',
     photosArray: [
-      'https://www.texanerin.com/content/uploads/2018/11/pumpkin-spice-cookies-4-650x975.jpg',
-      'https://cdn.junglecreations.com/wp/junglecms/2018/07/4164c5bd-wide-thumbnail.jpg',
-      'https://pinchofyum.com/wp-content/uploads/Crunchwrap-Inside.jpg',
-      'https://monsonmadethis.com/wp-content/uploads/2017/10/IMG_20171015_161017_025-e1533869302263.jpg',
+      'https://www.gospellightbbc.org.nz/wp-content/uploads/2021/03/prayer.jpg',
+      'https://www.gospellightbbc.org.nz/wp-content/uploads/2021/03/prayer.jpg',
+      'https://www.gospellightbbc.org.nz/wp-content/uploads/2021/03/prayer.jpg',
+      'https://www.gospellightbbc.org.nz/wp-content/uploads/2021/03/prayer.jpg',
     ],
     time: '45',
     ingredients: [
@@ -153,15 +181,22 @@ If you have sincerely made a decision to receive Christ as your Saviour, please 
       [28, '2'],
       [29, '1 cup'],
     ],
-    description:
-      '-- In a medium pot over medium heat, heat 1 tablespoon oil. Add onion and cook until soft, 5 minutes. Add garlic and cook until fragrant, 1 minute more. Add tomato paste and stir to coat onion and garlic. Add ground beef and cook, breaking up meat with a wooden spoon, until no longer pink, 6 minutes. Drain fat.\n\n -- Return beef to pot and season with chili powder, paprika, salt, and pepper. Add tomato sauce and kidney beans. Bring to a boil, then reduce heat and let simmer 15 minutes. Add some chili to center of each tortilla, leaving room to fold in edges. Top with Fritos, then cheddar. Fold edges of tortillas toward the center, creating pleats. Invert Crunchwraps so pleats are on the bottom and stay together.\n\n -- In medium skillet over medium heat, heat remaining tablespoon oil. Add a Crunchwrap seam side down and cook until tortilla is golden, 3 to 5 minutes per side. Repeat with remaining Crunchwraps',
+    description: `We are a church who believes in prayer, and in praying together, so we include a time of prayer during our Wednesday evening meetings where we separate into groups and pray over a list of church prayer requests for 20-30 minutes as the Lord leads.
+
+      Acts 12:12
+      And when he had considered the thing, he came to the house of Mary the mother of John, whose surname was Mark; where many were gathered together praying.
+      
+      Ephesians 6:18
+      Praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance and supplication for all saints.
+      
+      `,
   },
   {
     recipeId: 1,
     categoryId: 3,
-    title: 'Brownies',
+    title: 'Devotion(Coming soon)',
     photo_url:
-      'https://www.texanerin.com/content/uploads/2018/01/coconut-flour-brownies-1-650x975.jpg',
+      'https://www.gospellightbbc.org.nz/wp-content/uploads/2015/09/studycert.jpg',
     photosArray: [
       'https://www.texanerin.com/content/uploads/2018/01/coconut-flour-brownies-1-650x975.jpg',
       'https://images-gmi-pmc.edge-generalmills.com/6fbc6859-e2b1-499d-b0fa-ada600c9cc3f.jpg',
@@ -169,37 +204,36 @@ If you have sincerely made a decision to receive Christ as your Saviour, please 
       'https://www.franchisechatter.com/wp-content/uploads/2014/08/KFC-Photo-by-James.jpg',
     ],
     time: '30',
-    ingredients: [
-      [1, '2 tablespoons'],
-      [3, '1 tablespoon'],
-      [4, '1 teaspoon'],
-      [5, '1/2 teaspoons'],
-      [6, '1/2 teaspoons'],
-      [7, '1/2 teaspoons'],
-      [8, '1/2 teaspoons'],
-      [9, '1/2 teaspoons'],
-      [10, '1/2 teaspoons'],
-      [11, '1/2 teaspoons'],
-      [12, '1/2 cups'],
-      [13, '1 tablespoon'],
-      [14, '1 tablespoon'],
-      [15, '2 breasts, 2 thighs, 2 drumsticks, 2 wings'],
-      [16, '1'],
-      [17, '2 quarts'],
-    ],
-    description:
-      '-- Preheat fryer to 350°F. Thoroughly mix together all spices. Combine spices with flour, brown sugar and salt. Dip chicken pieces in egg white to lightly coat them, then transfer to flour mixture. Turn a few times and make sure the flour mix is really stuck to the chicken.\n\n -- Repeat with all the chicken pieces. Let chicken pieces rest for 5 minutes so crust has a chance to dry a bit. Fry chicken in batches. Breasts and wings should take 12-14 minutes, and legs and thighs will need a few more minutes. Chicken pieces are done when a meat thermometer inserted into the thickest part reads 165°F. Let chicken drain on a few paper towels when it comes out of the fryer. Serve hot.',
+    // ingredients: [
+    //   [1, '2 tablespoons'],
+    //   [3, '1 tablespoon'],
+    //   [4, '1 teaspoon'],
+    //   [5, '1/2 teaspoons'],
+    //   [6, '1/2 teaspoons'],
+    //   [7, '1/2 teaspoons'],
+    //   [8, '1/2 teaspoons'],
+    //   [9, '1/2 teaspoons'],
+    //   [10, '1/2 teaspoons'],
+    //   [11, '1/2 teaspoons'],
+    //   [12, '1/2 cups'],
+    //   [13, '1 tablespoon'],
+    //   [14, '1 tablespoon'],
+    //   [15, '2 breasts, 2 thighs, 2 drumsticks, 2 wings'],
+    //   [16, '1'],
+    //   [17, '2 quarts'],
+    // ],
+    description: 'Coming Soon',
   },
   {
     recipeId: 4,
     categoryId: 1,
-    title: 'Perfect Fish Tacos',
+    title: 'Statement of Faith',
     photo_url:
-      'https://hips.hearstapps.com/hmg-prod/images/190307-fish-tacos-112-1553283299.jpg',
+      'https://www.gospellightbbc.org.nz/wp-content/uploads/2021/03/banner-statement.jpg',
     photosArray: [
-      'http://d2814mmsvlryp1.cloudfront.net/wp-content/uploads/2014/04/WGC-Fish-Tacos-copy-2.jpg',
-      'https://thecozyapron.com/wp-content/uploads/2018/03/baja-fish-tacos_thecozyapron_1.jpg',
-      'https://www.simplyrecipes.com/wp-content/uploads/2017/06/2017-07-22-FishTacos-6.jpg',
+      'https://www.gospellightbbc.org.nz/wp-content/uploads/2021/03/banner-statement.jpg',
+      'https://www.gospellightbbc.org.nz/wp-content/uploads/2021/03/banner-statement.jpg',
+      'https://www.gospellightbbc.org.nz/wp-content/uploads/2021/03/banner-statement.jpg',
     ],
     time: '35',
     ingredients: [
@@ -215,50 +249,233 @@ If you have sincerely made a decision to receive Christ as your Saviour, please 
       [14, '2 teasponns'],
       [34, '1'],
     ],
-    description:
-      '-- In a medium shallow bowl, whisk together olive oil, lime juice, paprika, chili powder, cumin, and cayenne. Add cod, tossing until evenly coated. Let marinate 15 minutes. Meanwhile, make slaw: In a large bowl, whisk together mayonnaise, lime juice, cilantro, and honey. Stir in cabbage, corn, and jalapeño. Season with salt and pepper.\n\n -- In a large nonstick skillet over medium-high heat, heat vegetable oil. Remove cod from marinade and season both sides of each filet with salt and pepper. Add fish flesh side-down. Cook until opaque and cooked through, 3 to 5 minutes per side.\n\n -- Let rest 5 minutes before flaking with a fork. Assemble tacos: Serve fish over grilled tortillas with corn slaw and avocado. Squeeze lime juice on top and garnish with sour cream. ',
+    description: `What we believe & teach…
+
+      1:      Concerning the Bible:
+      
+      We believe that the Authorised, King James Version of the Bible containing thirty-nine books of the Old Testament, and twenty-seven books of the New Testament, sixty-six books in all, is the perfect and preserved Word of God.
+      
+      We accept the historical accounts of the Bible as factual, and interpret Scripture according to the normal rules of grammar.” (i.e. literally).
+      
+      This book alone is our Absolute Authority in all matters of Doctrine and Practice, Faith and Conduct, without exception.
+      
+      Psa. 12:6-7; 2 Tim 3:15-17; 2 Pet 1:19-21
+      
+       
+      
+      2:      Concerning Dispensations:
+      
+      We believe that the Bible must be rightly divided in order to be properly understood. We recognise that within the Word of God there are distinguishable Dispensations, in the outworking of God’s purposes. Therefore, we insist that while “All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness,” (2 Tim 3:16) all Scripture does not have a direct application to the Church today. We believe that the current Dispensation is called the Church Age which will end at the Rapture.
+      
+      2 Tim. 2:15; 3:16; Eph 1:10
+      
+       
+      
+      3:      Concerning the One True God:
+      
+      We believe that there is only One True God and that He is manifest in Three Persons (the Trinity): The Father, the Son, and the Holy Ghost. These three persons of the Godhead are One, and each has a distinct ministry in God’s relationship with His creation. We believe that God is a spiritual, sovereign, and personal Being who is by nature:
+      
+      Omniscient: Job 37:16; Psa. 147:4-5; Rom 11:33.
+      
+      Omnipotent: Job 42:2; Psa. 107:25-29; Rev. 11:17.
+      
+      Omnipresent: Jer. 23:23-24; Psa. 139:7-9; Acts 17:24-28.
+      
+      He is the epitome of holiness, righteousness, and wisdom, and is separate from and superior to, His creation.
+      
+      Gen. 1:1; John 1:1-3; Matt. 3:16-17; I John 5:7.
+      
+       
+      
+      4:      Concerning the Lord Jesus Christ:
+      
+      We believe that the Lord Jesus Christ is the Second Person of the Godhead (Trinity). He is also the eternal Word of God, and the only begotten Son of the Father. He became man through the Virgin Birth. We believe He gave Himself, as the perfect and sinless Lamb of God, to die upon the cross at Calvary and shed His blood for the sins of mankind, suffering sin’s full penalty of divine wrath, in our place. We further insist that He arose bodily from the dead never to die again and ascended into heaven where He is now seated at the right hand of the Majesty on high as the Great High Priest, Advocate, and Intercessor for all those believe in Him.
+      
+      Isa. 7:14; Luke 1:35; 1 Cor. 15:1-4; 2 Cor. 5:21; 1 Tim. 3:16; Heb. 1:3.
+      
+       
+      
+      5:      Concerning the Holy Spirit:
+      
+      We believe that the Holy Spirit (Holy Ghost) is the Third Person of the Godhead (Trinity), and not an impersonal force or power. We affirm that He is the divine agent in God’s revelation and redemption. He convicts the world of sin, righteousness, and judgment, and regenerates, indwells, baptises, seals, anoints, and comforts all those who believe on and receive the Lord Jesus Christ as their personal Saviour. His will is to glorify Christ, and to empower, guide, teach, and fill all believers who will surrender to Him.
+      
+      John 3:5; 14:16-17,26; 16:7-14; Rom 8:9; 1 Cor. 12:13.
+      
+      Note: We also believe that the sign gifts, tongues, etc. as described in 1 Cor 12:8-10, ceased with the completion of the New Testament canon. Therefore, we do not subscribe to the Pentecostal and Charismatic interpretations of theses verses, nor their application for the Church today.
+      
+       
+      
+      6:      Concerning Creation:
+      
+      We believe that the eternal Triune God, by the Word of His mouth, supernaturally and intelligently, created everything physical, spiritual, living and inanimate out of nothing, according to His good pleasure. We affirm that, “In the beginning God created the heaven and the earth.” (Gen1:1) Furthermore, we firmly deny that any forms of organic evolution from one species to another (transmutation) ever occurred.
+      
+      Gen 1:1; 2:7; Ex 20:11: Jer 32:17; Col 1:16; Heb 11:3
+      
+       
+      
+      7:      Concerning Man:
+      
+      We believe that all men are inherently sinful and lost and under the righteous judgment and wrath of God. Adam, the first man and the head of the human race, wilfully sinned against God by disobedience to His commandment and thereby became separated from His Creator. Man cannot be reformed, rectified, or reversed to God’s satisfaction by his own effort, cunning, merit or righteousness.
+      
+      We believe that a depraved and sinful nature, and naturally dead spirit, does not hinder a man from being a free moral agent, who is capable and expected of God to will and believe and respond to the admonitions of the Gospel. Men are free to reject God’s graciousness in providing a free salvation. Further, Jesus Christ died for all without exception.
+      
+      Gen. 1:27; 3:6; Psa 51:5; Isa 64:6; John 5:54; Rom 5:19a; Rom 3:10-12; Eph 2:1b
+      
+       
+      
+      8:      Concerning Atonement:
+      
+      We believe that God’s answer to man’s sinful state is in the substitutionary death, burial, and resurrection, of His only begotten Son, the Lord Jesus Christ on the cross of Calvary, whose sufferings and shed blood have made full atonement for the sins of the whole world. There is none other ground for salvation.
+      
+      2 Cor 5:18-21; Gal 1:4; Eph 1:7; Col. 1:14; 1 Peter 1:18-20
+      
+       
+      
+      9:      Concerning Salvation:
+      
+      We believe that salvation is a free gift of grace from God. It cannot be merited in whole or in part by any work or virtue of mankind. Salvation can only be received by personal faith in the Lord Jesus Christ and His finished work at Calvary. Also known as being “born-again”, it is an instantaneous and complete operation of the Holy Spirit who indwells a believer the moment he believes. This true believer, who is now in Christ, also receives as a present possession the gift of eternal life together with the following imputed attributes in the eyes of Almighty God:
+      
+      Perfect righteousness
+      
+      Perfect holiness
+      
+      Sonship in God’s family
+      
+      A new divine nature
+      
+      Deliverance from eternal condemnation, and,
+      
+      Every spiritual resource needed for life and godliness.
+      
+      Furthermore, we insist that no true believer can possibly lose his salvation because it is a free gift, he is in Christ, and Christ is in him, and God has promised that he shall never perish nor be forsaken.
+      
+      John 1:12,13; 3:2-8; 6:37; Rom 3:23-26; 6:23; 8:1; 2 Cor 5:17; Eph 2:8,9; Titus 3:5–7; Heb 13:5; 1 John 5:1.
+      
+       
+      
+      10:    Concerning the Church:
+      
+      We believe that the Local Church is the assembly of true born-again, and baptised believers in the Lord Jesus Christ. It is the habitation of God through the Spirit with divine appointments for the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ.
+      
+      The Church is a living organism, the head of which is Christ, the body being members who are as lively stones fitly joined together, and compacted by that which every joint supplieth.
+      
+      We insist that the Local Church is to be autonomous and self-governing, free from interference by any ecclesiastical hierarchy, organisation, or authority. Christ must rule by the Holy Spirit, through His appointed ministers according to the Word of God. However, it is right and proper for likeminded Churches to cooperate with one another, in contending for the faith, and the furtherance of the Gospel.
+      
+      1 Cor12:28-30; 6:1-4; Eph 1:22-23; 2:21; 4:11-12,16; Col 1:18; Jude 1:3.
+      
+       
+      
+      11:    Concerning Ordinances:
+      
+      We believe that there are but two ordinances decreed by the Lord Jesus Christ to be observed by His Church.
+      
+      Believers Baptism
+      All believers should be baptised by immersion in water, as a sign and testimony of salvation, being symbols of the believer’s identification with Christ’s death, burial, and resurrection to newness of life. Baptism has no merit for salvation; it is a sign of having been saved.
+      
+      Matt 28:18-20; Acts 8:36-38; 10:47-48; Rom 6:4.
+      
+       
+      
+      The Lord’s Supper
+      The Lord’s Supper, or Communion, is the solemn partaking of broken unleavened bread and unfermented fruit juice by believers, both the bread and juice being symbols of the body and the shed blood of Jesus Christ, as a memorial of His death until He comes.
+      
+      Matt 26:26-29; Mark 14:22-25; Luke 22:14-20; 1 Cor 10:16,7; 11:23-26.
+      
+       
+      
+      12:    Concerning Satan:
+      
+      We believe that Satan (the Adversary) is a created being with the ability to appear in different forms. He was not created as such but as Lucifer, the light bearer, he was cast out of heaven when pride, selfish desire, and evil intent was found in him. It was his evil influence that brought about the downfall of man. He now seeks to control unbelievers and to destroy the faith of all believers in the Lord Jesus Christ, but they can resist and overcome him.
+      
+      Job 1:6; Isa 14:12-15; Ezek 28:12-19; 2 Cor 11:14; Col 1:16; Eph 6:12; 1 Pet 5:8; Jas 4:7; Rev 12:11
+      
+       
+      
+      13:    Concerning Christian Responsibility:
+      
+      We believe that every member of this church has a duty and responsibility to live a clean, holy, and separated life that is not conformed to this world. Not as a means to salvation, but as evidence and as fruit of a new life of righteousness in Christ. Every believer should deny himself, take up his cross, and follow his Saviour’s example, walking as He walked. Furthermore, we believe that every believer has a duty to study the Scriptures, to pray for guidance and wisdom, and to bear the Gospel to a lost and dying world.
+      
+      Amos 3:3; Luke 9:23-26; Rom 12:1-3; 1 Cor 6:19,20; 1 Pet 1:13-16; 1 John 2:15-17
+      
+       
+      
+      14:     Concerning Marriage:
+      
+      We believe that the Scriptures teach the home was the first institution provided to man by God himself. We believe that marriage is a sacred relationship that is only between a man and a woman (both from birth). Marriage is used as a symbol that describes the relationship between Christ and His bride, the Church.
+      
+      Gen 1:27; Gen 2:18-25; Eph 5:24-25; Heb 13:4; Rev 19:7-9
+      
+       
+      
+      15:    Concerning the Return of Christ:
+      
+      We believe that the return of the Lord Jesus Christ for His Church is imminent (could occur at any time). Also known as the Rapture, it is the translation of all those who are in Christ, both living and dead, who will be taken instantaneously and without warning.
+      
+      This will be followed by a seven year period called the Tribulation, such as has never been known upon the earth, when God’s wrath against this sinful world is poured out. The Lord Jesus Christ, together with His saints, will then visibly and gloriously return to earth to destroy the Antichrist and his armies at the climax of the battle of Armageddon. Christ will then establish His throne in Jerusalem and will rule the earth and reign for one thousand years.
+      
+      John 14:1-3; 1 Cor 15:51-53; Phil 3:20; 1 Thess 4:13-18; Rev 19:11-16.
+      
+       
+      
+      16:    Concerning the Future State:
+      
+      We believe that the redeemed of all ages, having been resurrected and glorified, will be gathered into the presence of the Lord, to worship and serve the Triune God for all eternity in the New Heaven and New Earth.
+      
+      We believe in the bodily resurrection and judgement of unbelievers of all ages, to take place at the Great White Throne following the millennial reign of Christ. Not having their names recorded in the Lamb’s Book of Life, all are consigned to a lake of fire prepared for the Devil and his angels, there to remain forever.
+      
+      John 11:25-26; 2 Peter 3:12-13; Rev 20:4-6; Rev 20: 10-15`,
   },
   {
     recipeId: 5,
     categoryId: 1,
-    title: 'Chicken Fajitas',
+    title: 'Outreach Program',
     photo_url:
-      'https://tmbidigitalassetsazure.blob.core.windows.net/secure/RMS/attachments/37/1200x1200/Flavorful-Chicken-Fajitas_EXPS_GHBZ18_12540_B08_15_8b.jpg',
+      'https://www.gospellightbbc.org.nz/wp-content/uploads/2021/03/witnessing3-20-3-21.jpg',
     photosArray: [
-      'https://dadwithapan.com/wp-content/uploads/2015/07/Spicy-Chicken-Fajitas-22-1200x480.jpg',
-      'https://3.bp.blogspot.com/-X-dHj7ORF9Q/XH4ssgTuSZI/AAAAAAAAEig/E46HP9wCfdsvyJFcMTX30cw-ICep8lF9ACHMYCw/s1600/chicken-fajitas-mexican-food-id-149559-buzzerg.jpg',
-      'https://cdn-image.foodandwine.com/sites/default/files/styles/medium_2x/public/201403-xl-chipotle-chicken-fajitas.jpg?itok=ghVcI5SQ',
+      'https://www.gospellightbbc.org.nz/wp-content/uploads/2021/03/witnessing2-20-3-21.jpg',
+      'https://www.gospellightbbc.org.nz/wp-content/uploads/2021/03/witnessing2-20-3-21.jpg',
+      'https://www.gospellightbbc.org.nz/wp-content/uploads/2021/03/witnessing2-20-3-21.jpg',
     ],
     time: 35,
-    ingredients: [
-      [9, '1/2 teaspoons'],
-      [0, '4 tablespoons'],
-      [1, '1/2 teaspoons'],
-      [30, '2 tablespoons'],
-      [31, '1 teaspoon'],
-      [7, '1 teaspoon'],
-      [24, '1/2 teaspoons'],
-      [3, '1/2 teaspoons'],
-      [21, '1 pound'],
-      [22, '1/2 cup'],
-      [27, '6'],
-      [36, '4'],
-      [37, '1/2'],
-      [38, '1/2'],
-    ],
-    description:
-      '-- In a large bowl, combine 2 tablespoons oil, lemon juice and seasonings; add the chicken. Turn to coat; cover. Refrigerate for 1-4 hours In a large skillet, saute peppers and onions in remaining oil until crisp-tender. Remove and keep warm. Drain chicken, discarding marinade. In the same skillet, cook chicken over medium-high heat for 5-6 minutes or until no longer pink.\n\n -- Return pepper mixture to pan; heat through. Spoon filling down the center of tortillas; fold in half. Serve with toppings as desired.',
+    // ingredients: [
+    //   [9, '1/2 teaspoons'],
+    //   [0, '4 tablespoons'],
+    //   [1, '1/2 teaspoons'],
+    //   [30, '2 tablespoons'],
+    //   [31, '1 teaspoon'],
+    //   [7, '1 teaspoon'],
+    //   [24, '1/2 teaspoons'],
+    //   [3, '1/2 teaspoons'],
+    //   [21, '1 pound'],
+    //   [22, '1/2 cup'],
+    //   [27, '6'],
+    //   [36, '4'],
+    //   [37, '1/2'],
+    //   [38, '1/2'],
+    // ],
+    description: `Outreach Program:
+
+      The souls of man are important to us, and we know they are precious to God. As a church we recognise our responsibility to carry out the Great Commission, which is to preach and teach the gospel of Jesus Christ to every creature. We have regular outreach in our local community where we go out in public and distribute gospel tracts and witness to people one on one as we have opportunity. We also emphasize our individual responsibility to be a witness for Christ in our daily lives.
+      
+      Proverbs 11:30
+      The fruit of the righteous is a tree of life; and he that winneth souls is wise.
+      
+      Mark 16:15
+      And he said unto them, Go ye into all the world, and preach the gospel to every creature.
+      
+      Luke 14:23
+      And the lord said unto the servant, Go out into the highways and hedges, and compel them to come in, that my house may be filled.`,
   },
   {
     recipeId: 6,
     categoryId: 2,
-    title: 'Buffalo Pizza',
+    title: 'Missionary Support',
     photo_url:
-      'https://images.unsplash.com/photo-1513104890138-7c749659a591?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80',
+      'https://www.gospellightbbc.org.nz/wp-content/uploads/2015/09/missions.jpg',
     photosArray: [
-      'https://www.tablefortwoblog.com/wp-content/uploads/2019/01/buffalo-chicken-pizza-recipe-photos-tablefortwoblog-3-500x500.jpg',
-      'http://pizzachoicema.com/wp-content/uploads/2018/08/Buffalo-Chicken-Pizza.jpg',
-      'https://static1.squarespace.com/static/565bb41ae4b0509ba9fdf769/t/5b9a8e80aa4a998b0be0fcf4/1536855690622/pizza.gif',
+      'https://www.gospellightbbc.org.nz/wp-content/uploads/2015/09/missions.jpg',
+      'https://www.gospellightbbc.org.nz/wp-content/uploads/2015/09/missions.jpg',
+      'https://www.gospellightbbc.org.nz/wp-content/uploads/2015/09/missions.jpg',
     ],
     time: 50,
     ingredients: [
@@ -277,20 +494,69 @@ If you have sincerely made a decision to receive Christ as your Saviour, please 
       [47, '2'],
       [46, '9 oz'],
     ],
-    description:
-      '-- Place a rack in upper third of oven. Place a large cast-iron skillet on rack and preheat oven to 500° (or as high as your oven will go). Place pizza dough in a large bowl, pour a little oil over, and turn to coat. Cover bowl with plastic and let dough proof at room temperature while pan and oven heat up.\n\n -- Meanwhile, cook hot sauce, marinara sauce, and butter in a medium saucepan over medium heat, stirring occasionally, until butter is melted. Stir in cream, reduce heat to low, and simmer, stirring occasionally, until slightly thickened and warmed through, about 10 minutes. Heat 1 Tbsp. oil in a large skillet over medium-high. Add chicken, toss to coat, then add ¼ cup Buffalo sauce.\n\n -- Cook chicken, tossing occasionally, until heated through, about 2 minutes. Reduce heat and simmer, stirring often, until chicken is well coated and sauce is slightly thickened, about 5 minutes. Meanwhile, whisk yogurt, lemon juice, celery salt, garlic powder, ¼ cup blue cheese, ½ tsp. pepper, and 2 Tbsp. water in a small bowl, adding more water if sauce seems too thick (it should be pourable); set aside.\n\n -- Turn out dough onto a lightly floured work surface. Shape with your hands into a round that’s slightly larger than the cast-iron skillet you’re using. Take hot skillet out of oven (watch that handle!) and place on a heatproof surface. Add a little flour to pan. Lay dough in skillet, then work edges of dough up sides of skillet with your fingertips (use a rubber spatula or wooden spoon if you’re nervous about touching the hot pan). Drizzle a little oil around inside edge of pan so that it trickles behind and underneath dough, which will encourage browning and help it release.\n\n -- Spread about ⅓ cup Buffalo sauce over dough. Arrange mozzarella over, then top with remaining ¼ cup blue cheese. Arrange chicken mixture on top. Bake pizza on top rack until crust and cheese are nicely browned, 15–20 minutes. Transfer skillet to stovetop (again, watch that handle!) and let pizza rest a few minutes. Using a spatula, slide pizza onto a cutting board or platter. Arrange celery over, then top with reserved blue cheese dressing. Season with pepper, then drizzle with oil.',
+    description: `Please pray for our Missionaries!
+
+      Currently we at GLBBC prayerfully & financially support missionaries throughout the world, and Lord willing we will support more until Jesus comes, please keep them in your constant prayers.
+      
+      Dante Elupre	-Vietnam
+      Rogelio Billones-Philippines
+      Virdon Billones-Philippines
+      Piripi Scott-Romania
+      Teresa Mofya-Malawi
+      Addai Adams Adako-Ghana
+      Arana, Stephen Jay-Nepal
+      Banada, Doreen-CRAN
+      Blanco, Edgar-CRAN
+      Bravo, Herminio-CRAN
+      Catalino, Harlly-John	Botswana
+      Chang, Bee-CRAN
+      Chanroeurn, Bean-Cambobia
+      Dellosa, Lloyd-Botswana
+      Fabroa, Christopher-Armenia
+      Fortin, Aaron-Guatemala
+      Hernan, John Arthur-CRAN
+      Lengxayou, YongXiong-CRAN
+      Lim, Kim John-Tanzania
+      Ly, Daniel-Cambobia
+      Mabanglo, T-CRAN
+      Macasling, Joel-Bangladesh
+      Magdalan, Seigfred-CRAN
+      Mariano, James-CRAN
+      Mariano, Jay Vie-CRAN
+      Marquez, John Christopher-CRAN
+      Matangob, Gerald-CRAN
+      Medrano, Dean Aljim-Costa Rica
+      Montenegro, Januario-CRAN
+      Paguntalan, Harvey-CRAN
+      Pansing, Jayson-Cambobia
+      Ponce, Ebenezer-CRAN
+      Pueblo, Maria Josephine-Uganda
+      Rivera, Peter-Zanzibar
+      Sadipa, Ian Jaycarlo-Fiji
+      Sangma, Supidto-Bangladesh
+      Sufinecia, Aivan-El Salvador
+      Unay, Rodcelle-Colombia
+      Unada, Nelson-CRAN
+      Zama, Hmning Sawi-CRAN
+      Keng, Rodolfo-East Asia
+
+
+      Ephesians 6:18
+      Praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance and supplication for all saints;
+      
+      Mark 16:15
+      And he said unto them, Go ye into all the world, and preach the gospel to every creature.`,
   },
   {
     recipeId: 0,
     categoryId: 0,
-    title: 'Classic Lasagna',
+    title: 'GLBBC Meeting Venues',
     photo_url:
-      'https://namelymarly.com/wp-content/uploads/2018/04/20180415_Beet_Lasagna_10.jpg',
+      'https://www.gospellightbbc.org.nz/wp-content/uploads/2023/07/GLBBC-Meeting-Venues-2023-2024_page-0001-1-1086x1536.jpg',
     photosArray: [
-      'https://namelymarly.com/wp-content/uploads/2018/04/20180415_Beet_Lasagna_10.jpg',
-      'https://advancelocal-adapter-image-uploads.s3.amazonaws.com/image.al.com/home/bama-media/width600/img/news_impact/photo/burger-fijpg-57e7e5907630c2ad.jpg',
-      'https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1439,w_2560,x_0,y_0/dpr_1.5/c_limit,w_1044/fl_lossy,q_auto/v1492718105/articles/2013/09/24/burger-king-s-new-french-fries-took-ten-years-to-develop/130923-gross-burger-tease_izz59e',
-      'https://aht.seriouseats.com/images/2012/02/20120221-193971-fast-food-fries-Burger-King-fries-2.jpg',
+      'https://www.gospellightbbc.org.nz/wp-content/uploads/2023/07/GLBBC-Meeting-Venues-2023-2024_page-0001-1-1086x1536.jpg',
+      'https://www.gospellightbbc.org.nz/wp-content/uploads/2023/07/GLBBC-Meeting-Venues-2023-2024_page-0001-1-1086x1536.jpg',
+      'https://www.gospellightbbc.org.nz/wp-content/uploads/2023/07/GLBBC-Meeting-Venues-2023-2024_page-0001-1-1086x1536.jpg',
     ],
     time: '15',
     ingredients: [
@@ -298,66 +564,82 @@ If you have sincerely made a decision to receive Christ as your Saviour, please 
       [1, '5g'],
       [2, '300g'],
     ],
-    description:
-      '-- Start with cleaned and peeled russet potatoes that you have cut into 3/8-inch match sticks. Place in bowl of very cold water: keep rinsing and changing the water until the water is clear; drain thoroughly and dry with paper towels or a clean lint-free kitchen towel.\n\n -- Meanwhile, you preheat your hot oil to 350 degrees F. Place prepared taters in oil and cook about 5 minutes. They will have that blond-tone color to them. \n\n -- Note: Once you add cold potatoes to the hot oil, the temperature of your oil is going to drop - you want it to be somewhere between 330 - 325 degrees F. \n\n -- Remove from oil; drain and cool. Now - either refrigerate until ready to finish cooking, or cool completely and freeze up to 3 months. To freeze properly - place completely cooled fries in single layer on tray and place in freezer until frozen. Then bag them.\n\n -- To finish cooking - preheat your oil to 400* F. Add your cold fries (which will drop the oil temp - which is fine because you want it near the 375 degrees F. temp) and cook a few minutes until done. Lightly salt them and shake well so that the salt distributes well and they are not salty.',
+    description: '',
   },
   {
     recipeId: 7,
     categoryId: 2,
-    title: 'Spaghetti Carbonara',
+    title: 'Discipleship Training',
     photo_url:
-      'https://truffle-assets.imgix.net/655ce202-862-butternutsquashcarbonara-land.jpg',
+      'https://www.gospellightbbc.org.nz/wp-content/uploads/2021/03/640EED5B-1664-493B-8580-DC8419317D0F.jpeg',
     photosArray: [
-      'https://ak3.picdn.net/shutterstock/videos/10431533/thumb/10.jpg',
-      'https://www.kcet.org/sites/kl/files/styles/kl_image_large/public/thumbnails/image/square_hero_desktop_2x_sfs_spaghetti_carbonara_clr-3.jpg?itok=T-rsBDIZ',
-      'https://cdn-image.foodandwine.com/sites/default/files/HD-201104-r-spaghetti-with-anchovy.jpg',
+      'https://www.gospellightbbc.org.nz/wp-content/uploads/2021/03/640EED5B-1664-493B-8580-DC8419317D0F.jpeg',
+      'https://www.gospellightbbc.org.nz/wp-content/uploads/2021/03/640EED5B-1664-493B-8580-DC8419317D0F.jpeg',
+      'https://www.gospellightbbc.org.nz/wp-content/uploads/2021/03/640EED5B-1664-493B-8580-DC8419317D0F.jpeg',
     ],
     time: 15,
-    ingredients: [
-      [48, '50g'],
-      [49, '100g'],
-      [50, '350g'],
-      [51, '2 plump'],
-      [42, '50g'],
-      [16, '3'],
-      [1, '2 teaspoons'],
-      [4, '2 teaspoons'],
-    ],
-    description:
-      '-- Put the egg yolks into a bowl, finely grate in the Parmesan, season with pepper, then mix well with a fork and put to one side. Cut any hard skin off the pancetta and set aside, then chop the meat. Cook the spaghetti in a large pan of boiling salted water until al dente.\n\n -- Meanwhile, rub the pancetta skin, if you have any, all over the base of a medium frying pan (this will add fantastic flavour, or use 1 tablespoon of oil instead), then place over a medium-high heat. Peel the garlic, then crush with the palm of your hand, add it to the pan and leave it to flavour the fat for 1 minute. Stir in the pancetta, then cook for 4 minutes, or until it starts to crisp up. Pick out and discard the garlic from the pan, then, reserving some of the cooking water, drain and add the spaghetti.\n\n -- Toss well over the heat so it really soaks up all that lovely flavour, then remove the pan from the heat. Add a splash of the cooking water and toss well, season with pepper, then pour in the egg mixture – the pan will help to cook the egg gently, rather than scrambling it. Toss well, adding more cooking water until it’s lovely and glossy. Serve with a grating of Parmesan and an extra twist of pepper.',
+    // ingredients: [
+    //   [48, '50g'],
+    //   [49, '100g'],
+    //   [50, '350g'],
+    //   [51, '2 plump'],
+    //   [42, '50g'],
+    //   [16, '3'],
+    //   [1, '2 teaspoons'],
+    //   [4, '2 teaspoons'],
+    // ],
+    description: `
+
+      New Christians need training on how to live for God and follow Jesus Christ, we believe that God has given the local church this responsibility. 
+      
+      We participate in one on one and group Bible studies for new Christians to steer them in the right direction and encourage a healthy relationship with their new Lord and Saviour.
+      
+      Matthew 11:29
+      Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls.
+      
+      Matthew 28:20
+      Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen.`,
   },
   {
     recipeId: 8,
     categoryId: 2,
-    title: 'Lazania',
-    photo_url: 'https://images8.alphacoders.com/817/817353.jpg',
+    title: 'Sunday School',
+    photo_url:
+      'https://www.gospellightbbc.org.nz/wp-content/uploads/2021/03/A53DA3D6-8EA1-4161-9EF1-40AC271010B4.png',
     photosArray: [
-      'https://previews.123rf.com/images/somegirl/somegirl1509/somegirl150900048/46103208-top-view-of-a-delicious-traditional-italian-lasagna-made-with-minced-beef-bolognese-sauce-topped-wit.jpg',
-      'https://truffle-assets.imgix.net/87f324e4-YOUTUBE-NO-TXT.00_03_19_14.Imagen_fija001.jpg',
-      'https://images4.alphacoders.com/817/817350.jpg',
+      'https://www.gospellightbbc.org.nz/wp-content/uploads/2021/03/A53DA3D6-8EA1-4161-9EF1-40AC271010B4.png',
+      'https://www.gospellightbbc.org.nz/wp-content/uploads/2021/03/A53DA3D6-8EA1-4161-9EF1-40AC271010B4.png',
+      'https://www.gospellightbbc.org.nz/wp-content/uploads/2021/03/A53DA3D6-8EA1-4161-9EF1-40AC271010B4.png',
     ],
     time: 60,
-    ingredients: [
-      [36, '1 large'],
-      [25, '1 pound'],
-      [51, '5 cloves'],
-      [52, '1 pound'],
-      [53, '1 pound'],
-      [54, '1 28 ounce can'],
-      [23, '2 6 ounce can'],
-      [55, '2 tablespoons'],
-      [56, '1/4 cup'],
-      [10, '1/2 cup'],
-      [1, '1/2 teaspoons'],
-      [58, '1 teaspoon'],
-      [4, '1/4 teaspoons'],
-      [16, '1 large'],
-      [46, '1 pound'],
-      [48, '1 cup'],
-      [57, '30 ounces'],
-    ],
-    description:
-      '-- Cook noodles according to package directions; drain. Meanwhile, in a Dutch oven, cook sausage, beef and onion over medium heat 8-10 minutes or until meat is no longer pink, breaking up meat into crumbles. Add garlic; cook 1 minute. Drain. Stir in tomatoes, tomato paste, water, sugar, 3 tablespoons parsley, basil, fennel, 1/2 teaspoon salt and pepper; bring to a boil. Reduce heat; simmer, uncovered, 30 minutes, stirring occasionally. In a small bowl, mix egg, ricotta cheese, and remaining parsley and salt. Preheat oven to 375°. Spread 2 cups meat sauce into an ungreased 13x9-in. baking dish. Layer with 3 noodles and a third of the ricotta mixture. Sprinkle with 1 cup mozzarella cheese and 2 tablespoons Parmesan cheese.\n\n -- Repeat layers twice. Top with remaining meat sauce and cheeses (dish will be full). Bake, covered, 25 minutes. Bake, uncovered, 25 minutes longer or until bubbly. Let stand 15 minutes before serving.',
+    // ingredients: [
+    //   [36, '1 large'],
+    //   [25, '1 pound'],
+    //   [51, '5 cloves'],
+    //   [52, '1 pound'],
+    //   [53, '1 pound'],
+    //   [54, '1 28 ounce can'],
+    //   [23, '2 6 ounce can'],
+    //   [55, '2 tablespoons'],
+    //   [56, '1/4 cup'],
+    //   [10, '1/2 cup'],
+    //   [1, '1/2 teaspoons'],
+    //   [58, '1 teaspoon'],
+    //   [4, '1/4 teaspoons'],
+    //   [16, '1 large'],
+    //   [46, '1 pound'],
+    //   [48, '1 cup'],
+    //   [57, '30 ounces'],
+    // ],
+    description: `Everyone needs to learn and grow from the word of God, Sunday School is held before our Sunday morning worship service, 
+    
+  we separate into four classes for kids, teens, adults, and new Christians for about 45 minutes. It’s a time of learning, and discussion is encouraged.
+
+      1 Peter 2:2
+      As newborn babes, desire the sincere milk of the word, that ye may grow thereby:
+      
+      Ephesians 4:15
+      But speaking the truth in love, may grow up into him in all things, which is the head, even Christ:`,
   },
 ];
 

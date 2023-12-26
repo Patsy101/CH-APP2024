@@ -17,7 +17,7 @@ export default function RecipesListScreen(props) {
   }, []);
 
   const onPressRecipe = (item) => {
-    navigation.navigate('Recipe', { item });
+    navigation.navigate('GLBBC', { item });
   };
 
   const renderRecipes = ({ item }) => (
@@ -28,7 +28,7 @@ export default function RecipesListScreen(props) {
       <View style={styles.container}>
         <Image style={styles.photo} source={{ uri: item.photo_url }} />
         <Text style={styles.title}>{item.title}</Text>
-        <Text style={styles.category}>{getCategoryName(item.categoryId)}</Text>
+        {/* <Text style={styles.category}>{getCategoryName(item.categoryId)}</Text> */}
       </View>
     </TouchableHighlight>
   );
