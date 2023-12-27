@@ -3,30 +3,31 @@ export const categories = [
     id: 3,
     name: 'Category',
     photo_url:
-      'https://www.telegraph.co.uk/content/dam/Travel/2019/January/france-food.jpg?imwidth=1400',
+      'https://www.gospellightbbc.org.nz/wp-content/uploads/2015/11/GLBBC-Final-version-website-copy-e1446511587290.png',
   },
   {
     id: 1,
-    name: 'Mexican Food',
-    photo_url: 'https://ak1.picdn.net/shutterstock/videos/19498861/thumb/1.jpg',
+    name: 'The Great Commission',
+    photo_url:
+      'https://www.gospellightbbc.org.nz/wp-content/uploads/2021/03/TheGreatCommission-1573x786-1.jpg',
   },
   {
     id: 2,
-    name: 'Italian Food',
+    name: 'About us',
     photo_url:
-      'https://images.unsplash.com/photo-1533777324565-a040eb52facd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwqLoTDad-QgQdLFPLqXd2YT_Mfjz209GbYAnBedfZVMWjG_g_Sm0CA3mkFyxnS1A2b_Q&usqp=CAU',
   },
   {
     id: 4,
-    name: 'Smoothies',
+    name: 'Youth Ministry',
     photo_url:
-      'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/still-life-of-three-fresh-smoothies-in-front-of-royalty-free-image-561093647-1544042068.jpg?crop=0.715xw:0.534xh;0.0945xw,0.451xh&resize=768:*',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGdskWwkWkj8mKo2PqLjXYzCWQGx-gjzuB-mJoOpVNujJQpm_vYdyxcRIto03-vdA1WSg&usqp=CAU',
   },
   {
     id: 0,
-    name: 'Pizza',
+    name: 'Events',
     photo_url:
-      'https://amp.businessinsider.com/images/5c084bf7bde70f4ea53f0436-750-563.jpg',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5T7tMqiFNmOZSPcWlmXWV9qVybHRNVUit_W4-WPWBc_LwN2rIPF1eNe_rxCSP5LcOogA&usqp=CAU',
   },
 ];
 
